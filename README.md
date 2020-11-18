@@ -1,2 +1,2 @@
-# conference
-Responsive HTML5 Bootstrap 3 template for Event Site
+# Design Thinking Workshop
+Event Registration Website
